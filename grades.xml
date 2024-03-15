@@ -11,20 +11,20 @@
 <exam1>81</exam1> 
 <exam2>82</exam2> 
 <finalexam>83</finalexam> 
-</student> 
-<student>
+</student > 
+<student id="3">
 <name> ahmad mhmd </name>
 <exam1>92</exam1>
 <exam2>95</exam2>
 <finalexam>50</finalexam>
 </student>
-<student>
+<student id ="4">
 <name> khalid xx </name>
 <exam1>92</exam1>
 <exam2>95</exam2>
 <finalexam>50</finalexam>
 </student>
-<student>
+<student id ="5">
 <name> meep meep </name>
 <exam1>92</exam1>
 <exam2>95</exam2>
